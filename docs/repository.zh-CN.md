@@ -1,6 +1,6 @@
 # LTspice Model Downloader
 
-用于查找 LTspice 符号与下载候选模型的 Windows 便携工具。本仓库收录现有分享包，包含 EXE、依赖清单和说明；该分享包未附 Python 源码。原包使用说明见 [docs/toolkit-readme.md](../README.md)。
+用于查找 LTspice 符号与下载候选模型的 Windows 便携工具。本仓库收录现有分享包，包含 EXE、依赖清单和说明；该分享包未附 Python 源码。原包使用说明见 [README.md](../README.md)。
 
 ## 文章与下载
 
